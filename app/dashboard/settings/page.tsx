@@ -124,7 +124,7 @@ export default function SettingsPage() {
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-slate-400">Desenvolvido por</span>
-                <span className="text-slate-300">Luca Cordella</span>
+                <span className="text-slate-300">Luca Cordella | Pedro Arthur jardim | Guilherme Accioli</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-slate-400">Última atualização</span>
