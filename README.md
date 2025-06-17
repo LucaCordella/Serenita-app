@@ -146,7 +146,7 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 ---
 
 ## **Equipe de Desenvolvimento**
-- **Nome do Integrante: Luca Cordella**
+- **Nome do Integrante: Luca Cordella | Pedro Arthur jardim | Guilherme Accioli**
 
 ---
 
