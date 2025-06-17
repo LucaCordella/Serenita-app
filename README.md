@@ -1,30 +1,24 @@
-# Serenita project
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+# Projeto Serenità
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/lucacordellas-projects/v0-serenita-project)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/mmi1byJqHYc)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Subindo os códigos feitos no vscode do projeto Serenità
 
-## Deployment
+## Ferramentas usadas:
 
-Your project is live at:
+-> Linguagem de Programação: 
+  - TypeScript
+  - JavaScript
+  - Html
+  - Css
 
-**[https://vercel.com/lucacordellas-projects/v0-serenita-project](https://vercel.com/lucacordellas-projects/v0-serenita-project)**
+-> Frameworks:
+  - Next.Js (15)
+  - React (18)
+  - Node.Js
 
-## Build your app
+## Sobre:
 
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/mmi1byJqHYc](https://v0.dev/chat/projects/mmi1byJqHYc)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Para mais informações do projeto, entre no meu perfil e acesse o repositório do projeto, onde tem a documentação e explicação inteira sobre o projeto. Como esse é um teste para subir o protótipo, ainda não vinculei com o outro repositório o que será feito próximo semestre.
