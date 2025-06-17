@@ -4,7 +4,7 @@
 
 ## Overview
 
-Subindo os códigos feitos no vscode do projeto Serenità
+Subindo os códigos feitos no vscode do projeto. Serenità é um aplicativo/site focado em gerenciar e monitorar a saúde mental dos usuários. Ele oferece recursos para registro de humor, sintomas, testes psicológicos simples e visualização de relatórios e tendências emocionais. Com isso, o projeto busca auxiliar no autoconhecimento, oferecer apoio psicológico e promover o bem-estar de seus usuários.
 
 ## Ferramentas usadas:
 
