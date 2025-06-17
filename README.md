@@ -19,6 +19,14 @@ Subindo os códigos feitos no vscode do projeto Serenità
   - React (18)
   - Node.Js
 
+## Vídeo do projeto:
+
+
+
+https://github.com/user-attachments/assets/ba670870-6fea-4d19-bff9-961e9271c5df
+
+
+
 ## Sobre:
 
 Para mais informações do projeto, entre no meu perfil e acesse o repositório do projeto, onde tem a documentação e explicação inteira sobre o projeto. Como esse é um teste para subir o protótipo, ainda não vinculei com o outro repositório o que será feito próximo semestre.
