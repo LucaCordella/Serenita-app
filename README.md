@@ -154,10 +154,10 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 
 | Etapa                    | Data Inicial   | Data Final | Responsável|
 | ------------------------ |:--------------:|-----------|--------------|
-| Planejamento e Definição | 11/02/2025     |13/05/2025|Luca Cordella | Pedro Arthur jardim | Guilherme Accioli |
-| Desenvolvimento          | 14/05/2025     |30/07/2025|Luca Cordella | Pedro Arthur jardim | Guilherme Accioli |
-| Testes e Validação       | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella | Pedro Arthur jardim | Guilherme Accioli |
-| Finalização/Apresentação | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella | Pedro Arthur jardim | Guilherme Accioli |
+| Planejamento e Definição | 11/02/2025     |13/05/2025|Luca Cordella|Pedro Arthur jardim|Guilherme Accioli|
+| Desenvolvimento          | 14/05/2025     |30/07/2025|Luca Cordella|Pedro Arthur jardim|Guilherme Accioli|
+| Testes e Validação       | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|Pedro Arthur jardim|Guilherme Accioli|
+| Finalização/Apresentação | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|Pedro Arthur jardim|Guilherme Accioli|
 
 ---
 
